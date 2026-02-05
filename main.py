@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from langchain import PromptTemplate
+from langchain.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 
 
